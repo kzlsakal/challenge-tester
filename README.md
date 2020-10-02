@@ -44,3 +44,7 @@ script files recursively.
 - The script files need to be under category directories
 
 - Nested categories are not currently supported
+
+- If you would like to save your challenges on the repository, remove the
+following line from the `.gitignore` file:
+  - `challenges/*/`
