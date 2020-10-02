@@ -3,6 +3,10 @@ Runs Mocha & Chai in the browser for categorized JS functions by reading the
 script files recursively.
 
 ## Usage Example
+- Install dependencies  by running the following command on terminal:
+
+  $ `npm install`
+
 - Create a category folder named `week1` under `challenges` directory
 
 - Add your function in `challenges/week1/reverseArray.js`
