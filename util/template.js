@@ -4,6 +4,7 @@ const template = (scripts) => `
   <head>
     <meta charset="utf-8">
     <title>Challenge Tester</title>
+    <link rel="icon" href="favicon.ico">
     <!-- Include Mocha CSS styles -->
     <link href="/mocha.css" rel="stylesheet">
   </head>
